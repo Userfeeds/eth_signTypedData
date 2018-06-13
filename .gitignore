@@ -49,3 +49,4 @@ client-secret.json
 apikey.py
 #Docker
 *.*docker*
+.gradle
